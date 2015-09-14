@@ -53,16 +53,16 @@
                                 <img src="media/talleres/estimulacioncreativa.jpg"></img>
                             </div>
                             <div class="item">
-                                <img src="media/talleres/grandespintores.jpg"></img>
+                                <img src="media/talleres/GrandesPintores.jpg"></img>
                             </div>
                             <div class="item">
                                 <img src="media/talleres/pinturaespontanea.jpg"></img>
                             </div>
                             <div class="item">
-                                <img src="media/talleres/1.jpg"></img>
+                                <img src="media/talleres/1.JPG"></img>
                             </div>
                             <div class="item">
-                                <img src="media/talleres/DSC0269.jpg"></img>
+                                <img src="media/talleres/DSC0269.JPG"></img>
                             </div>
                         </div>
                         <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
