@@ -14,7 +14,7 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/maqro.css">
     </head>
-    
+
     <body>
 
 <?php include("headerSinContacto.php");?>
@@ -32,7 +32,7 @@
                         <h1>Servicios Educativos</h1>
                         <br>
                         <p align="justify">
-                            El museo debe ser un medio que propicie el acercamiento del público a la cultura y el arte. Es por ello que uno de los aspectos de mayor relevancia en el Museo de Arte de Querétaro es la atención especializada a los visitantes, especialmente al público estudiantil. El Departamento de Servicios Educativos cuenta con diversos programas educativos, como Visitas guiadas, Talleres, Cursos, Publicaciones para niños y Programas Extramuros, como El Museo va a la Escuela y El Museo va a la Sierra. 
+                            El museo debe ser un medio que propicie el acercamiento del público a la cultura y el arte. Es por ello que uno de los aspectos de mayor relevancia en el Museo de Arte de Querétaro es la atención especializada a los visitantes, especialmente al público estudiantil. El Departamento de Servicios Educativos cuenta con diversos programas educativos, como Visitas guiadas, Talleres, Cursos, Publicaciones para niños y Programas Extramuros, como El Museo va a la Escuela y El Museo va a la Sierra.
                             <br><br>
                         </p>
                     </div>
@@ -50,25 +50,19 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
-                                <img src="media/talleres/PlenitudenelArte.jpg"></img>
+                                <img src="media/talleres/estimulacioncreativa.jpg"></img>
                             </div>
                             <div class="item">
-                                <img src="media/talleres/CursoFotografia.jpg"></img>
+                                <img src="media/talleres/grandespintores.jpg"></img>
                             </div>
                             <div class="item">
-                                <img src="media/talleres/Dibujo.jpg"></img>
+                                <img src="media/talleres/pinturaespontanea.jpg"></img>
                             </div>
                             <div class="item">
-                                <img src="media/talleres/GrandesPintores.jpg"></img>
+                                <img src="media/talleres/1.jpg"></img>
                             </div>
                             <div class="item">
-                                <img src="media/talleres/publicacionesInfantiles.jpg"></img>
-                            </div>
-                            <div class="item">
-                                <img src="media/talleres/talleresVoluntariadoDocente.jpg"></img>
-                            </div>
-                            <div class="item">
-                                <img src="media/talleres/visitasGuiadas.jpg"></img>
+                                <img src="media/talleres/DSC0269.jpg"></img>
                             </div>
                         </div>
                         <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
@@ -79,7 +73,7 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="col-md-4" style="padding-top:70px">
                     <div>
                         <div class="flexible-container">
@@ -97,7 +91,7 @@
 
                         <h2>Horario de servicio</h2>
                         Martes a domingo / 10:00 a 18:00 h.
-                        
+
                         <h2>Admisión</h2>
                         Público: $ 30.00
                     </div>
@@ -129,7 +123,7 @@
                                         <br/>
                                         <img src="media/permanentes/flamenca.jpg"></img>
                                         <h2>Pintura Flamenca</h2>
-                                        
+
                                     </div>
                                     <div class="item">
                                         <img src="media/permanentes/mexicana.jpg"></img>
@@ -138,7 +132,7 @@
                                         <br/>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>
                             <br/>
                             <a href="#carousel-permanentes" role="button" data-slide="prev">
                                 <img src="media/bottom2.png"></img>
@@ -152,17 +146,17 @@
                         <br>
                         <p align="justify">
                             Una de las principales metas de nuestro museo es lograr el acercamiento del público al arte y la cultura; para lograrlo, es indispensable promover actividades educativas que sean capaces de satisfacer las necesidades e intereses de todas las edades y sectores de la población: niños, jóvenes, adultos, tercera edad; personas con discapacidad, estudiantes, maestros, turistas, trabajadores, etc. <br><br>
-                            Independientemente de los programas educativos orientados a la población escolar, 
-existen diversos programas permanentes dirigidos al público en general y proyectos 
-especiales que tienen como objetivo no sólo dar a conocer el museo, su historia, colección 
-permanente, exposiciones temporales y eventos, sino lograr la interacción real de la 
-gente para que llegue a sentirlo como un espacio propio, cercano y capaz de brindarle 
-experiencias nuevas. 
+                            Independientemente de los programas educativos orientados a la población escolar,
+existen diversos programas permanentes dirigidos al público en general y proyectos
+especiales que tienen como objetivo no sólo dar a conocer el museo, su historia, colección
+permanente, exposiciones temporales y eventos, sino lograr la interacción real de la
+gente para que llegue a sentirlo como un espacio propio, cercano y capaz de brindarle
+experiencias nuevas.
                         </p>
                         <p align="justify">
-                            El Departamento de Servicios Educativos tiene a su cargo la coordinación de los grupos de 
-Servicio Social y Voluntariado Docente, quienes enriquecen y apoyan las actividades 
-educativas que el departamento lleva a cabo. 
+                            El Departamento de Servicios Educativos tiene a su cargo la coordinación de los grupos de
+Servicio Social y Voluntariado Docente, quienes enriquecen y apoyan las actividades
+educativas que el departamento lleva a cabo.
                         </p>
                         <p>
                             <h3>Algunas de sus actividades son: </h3><b>
@@ -175,13 +169,13 @@ El Museo va a la escuela y ¨El Museo va a la Sierra. <br>
 Publicaciones y Guías didácticas.<br>
                         <div style="display:flex; justify-content:flex-end">
                             <a href="#contacto"><button class="btn btn-danger btn-lg">Programa Tu Visita Guiada</button></a>
-                            
+
                         </div>
                         <br>
                         </b>
-                        </p>            
+                        </p>
                         <hr/>
-                        <?php include("temporales.php");?> 
+                        <?php include("temporales.php");?>
                     </div>
                 </div>
             </div>
