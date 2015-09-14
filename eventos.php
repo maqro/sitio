@@ -14,7 +14,7 @@
         <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="css/maqro.css">
     </head>
-    
+
     <body>
 
 <?php include("headerSinContacto.php");?>
@@ -31,7 +31,7 @@
                     <div>
                         <h1>Eventos</h1>
                         <br>
-                        <p align="justify"> 
+                        <p align="justify">
                             <br><br>
                         </p>
                     </div>
@@ -44,13 +44,13 @@
                         </ol>
                         <div class="carousel-inner">
                             <div class="item active">
-                                <!--<img src="media/eventos/VenATomarCafe.jpg"></img>-->
+                                <img src="media/eventos/TallerBarro.jpg"></img>
                             </div>
                             <div class="item">
-                                <!--<img src="media/eventos/VisitaACiegas.jpg"></img>-->
+                                <img src="media/eventos/VisitaCiegas.jpg"></img>
                             </div>
                         </div>
-                        
+
                         <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
                             <img src="media/left.png"></img>
                         </a>
@@ -59,7 +59,7 @@
                         </a>
                     </div>
                 </div>
-                
+
                 <div class="col-md-4" style="padding-top:70px">
                     <div>
                         <div class="flexible-container">
@@ -77,7 +77,7 @@
 
                         <h2>Horario de servicio</h2>
                         Martes a domingo / 10:00 a 18:00 h.
-                        
+
                         <h2>Admisión</h2>
                         Público: $ 30.00
                     </div>
@@ -109,7 +109,7 @@
                                         <br/>
                                         <img src="media/permanentes/flamenca.jpg"></img>
                                         <h2>Pintura Flamenca</h2>
-                                        
+
                                     </div>
                                     <div class="item">
                                         <img src="media/permanentes/mexicana.jpg"></img>
@@ -118,7 +118,7 @@
                                         <br/>
                                     </div>
                                 </div>
-                            </div> 
+                            </div>
                             <br/>
                             <a href="#carousel-permanentes" role="button" data-slide="prev">
                                 <img src="media/bottom2.png"></img>
@@ -131,13 +131,13 @@
                     <div class="col-md-12">
                         <br>
                         <p align="justify">
-                            
+
                         </div>
                         <br>
                         </b>
-                        </p>            
+                        </p>
                         <hr/>
-                        <?php include("temporales.php");?> 
+                        <?php include("temporales.php");?>
                     </div>
                 </div>
             </div>
