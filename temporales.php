@@ -11,27 +11,27 @@
     <div class="carousel-inner text-center">
         <div class="item active">
             <div class="col-md-6">
-                <h2>Aquí está el que nació en este día</h2>
-                <img src="media/temporales/Mercedes.jpg"></img>
-                <h3>Mercedes Fariña</h3>
+                <h2>Aniversario XXVII</h2>
+                <img src="media/temporales/Aniversario.jpg"></img>
+                <h3>Museo de Arte de Querétaro</h3>
             </div>
-<!--            <div class="col-md-6">
-                <h2>Mar de sueños</h2>
-                <img src="media/temporales/InvitacionLuca.jpg"></img>
-                <h3>Luca Bray</h3>
-            </div>-->
+            <div class="col-md-6">
+                <h2>El eterno femenino</h2>
+                <img src="media/temporales/InvitacionAnguiano.jpg"></img>
+                <h3>Raúl Anguiano</h3>
+            </div>
         </div>
-<!--        <div class="item">
+        <div class="item">
             <div class="col-md-6">
-                <h2>México vestido de tradición</h2>
-                <img src="media/temporales/InvitacionMexico.jpg"></img>
-                <h3></h3>
+                <h2>Sifonía de Color</h2>
+                <img src="media/temporales/InvitacionMendoza.jpg"></img>
+                <h3>Leonardo Mendoza</h3>
             </div>
             <div class="col-md-6">
-                <h2>Equino real V</h2>
-                <img src="media/temporales/ExpoPaulina.jpg"></img>
-                <h3>Paulina Aguado</h3>
+                <h2>Obras Maestras de la Gráfica Mexicana</h2>
+                <img src="media/temporales/InvitacionMtras.jpg"></img>
+                <h3>Dr. Augusto Isla Estrada</h3>
             </div>
-        </div>-->
+        </div>
     </div>
 </div>
