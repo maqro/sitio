@@ -33,5 +33,17 @@
                 <h3>Dr. Augusto Isla Estrada</h3>
             </div>
         </div>
+        <div class="item">
+            <div class="col-md-6">
+                <h2>Placa de Media</h2>
+                <img src="media/temporales/InvitacionNevin.jpg"></img>
+                <h3>Paul Nevin</h3>
+            </div>
+            <div class="col-md-6">
+                <h2>Los Pasos de la Fé Fray Junipero Serra</h2>
+                <img src="media/temporales/InvitacionPedraza.jpg"></img>
+                <h3>Gerardo Pedraza Montes</h3>
+            </div>
+        </div>
     </div>
 </div>
