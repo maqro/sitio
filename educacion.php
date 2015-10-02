@@ -49,7 +49,7 @@
                             <li data-target="#carousel-main" data-slide-to="6" ></li>
                         </ol>
                         <div class="carousel-inner">
-                            <div class="item active">
+                            <!-- <div class="item active">
                                 <img src="media/talleres/estimulacioncreativa.jpg"></img>
                             </div>
                             <div class="item">
@@ -63,7 +63,7 @@
                             </div>
                             <div class="item">
                                 <img src="media/talleres/DSC0269.JPG"></img>
-                            </div>
+                            </div> -->
                         </div>
                         <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
                             <img src="media/left.png"></img>

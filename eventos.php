@@ -43,12 +43,12 @@
                             <li data-target="#carousel-main" data-slide-to="1" ></li>
                         </ol>
                         <div class="carousel-inner">
-                            <div class="item active">
+                            <!-- <div class="item active">
                                 <img src="media/eventos/TallerBarro.jpg"></img>
                             </div>
                             <div class="item">
                                 <img src="media/eventos/VisitaCiegas.jpg"></img>
-                            </div>
+                            </div> -->
                         </div>
 
                         <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
