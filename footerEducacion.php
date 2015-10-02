@@ -10,7 +10,7 @@
                                         <div align="center">
                                             <h2 id="contacto">Programa tu Visita Guiada</h2><br>
                                         </div>
-                                        
+
                                         <table style="color:white">
                                             <tr>
                                                 <td>
@@ -82,8 +82,8 @@
                 </div>
             </div>
             <div class="logoGob" align="center">
-                <img src="media/logosGobierno2.png" />
-            </div>                    
+                <!-- <img src="media/logosGobierno2.png" /> -->
+            </div>
         </div>
         <!-- Latest compiled and minified JavaScript -->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>

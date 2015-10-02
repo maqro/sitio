@@ -12,7 +12,7 @@
                     <script src="http://www.jscache.com/wejs?wtype=certificateOfExcellence&amp;uniq=966&amp;locationId=2315125&amp;lang=es_MX&amp;year=2014&amp;display_version=2"></script>
 
 <!--
-                    <div id="plugins-sociales">       
+                    <div id="plugins-sociales">
                         <iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fmuseodeartedequeretaro&amp;width&amp;height=300&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:400px;" allowTransparency="true"></iframe>
                     </div>
 -->
@@ -82,10 +82,10 @@
                         <div class="col-md-2">
                         </div>
                     </div>
-                    
+
                 </div>
                 <div class="logoGob" align="center">
-                    <img src="media/logosGobierno2.png" />
+                    <!-- <img src="media/logosGobierno2.png" /> -->
                 </div>
             </div>
         </div>
