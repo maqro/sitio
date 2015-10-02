@@ -39,8 +39,8 @@
                 <div class="col-md-12 inclusive-background">
                     <div id="carousel-main" class="carousel slide" data-ride="carousel">
                         <ol class="carousel-indicators">
-                            <li data-target="#carousel-main" data-slide-to="0" class="active"></li>
-                            <li data-target="#carousel-main" data-slide-to="1" ></li>
+                            <!-- <li data-target="#carousel-main" data-slide-to="0" class="active"></li>
+                            <li data-target="#carousel-main" data-slide-to="1" ></li> -->
                         </ol>
                         <div class="carousel-inner">
                             <!-- <div class="item active">
@@ -51,12 +51,12 @@
                             </div> -->
                         </div>
 
-                        <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
+                        <!-- <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
                             <img src="media/left.png"></img>
                         </a>
                         <a class="right carousel-control" href="#carousel-main" role="button" data-slide="next">
                             <img src="media/right.png"></img>
-                        </a>
+                        </a> -->
                     </div>
                 </div>
 
