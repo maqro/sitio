@@ -148,7 +148,7 @@
 
                     </div>
                     <div class="logoGob" align="center">
-                        <img src="media/logosGobierno2.png" />
+                        <!-- <img src="media/logosGobierno2.png" /> -->
                     </div>
                 </div>
             </div>
