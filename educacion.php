@@ -49,8 +49,11 @@
                             <li data-target="#carousel-main" data-slide-to="6" ></li>
                         </ol>
                         <div class="carousel-inner">
-                            <!-- <div class="item active">
-                                <img src="media/talleres/estimulacioncreativa.jpg"></img>
+                            <div class="item active">
+                                <img src="media/talleres/pinturatexturas.jpg"></img>
+                            </div>
+                            <div class="item active">
+                                <img src="media/talleres/cursoLoteria.jpg"></img>
                             </div>
                             <div class="item">
                                 <img src="media/talleres/GrandesPintores.jpg"></img>
@@ -63,7 +66,7 @@
                             </div>
                             <div class="item">
                                 <img src="media/talleres/DSC0269.JPG"></img>
-                            </div> -->
+                            </div>
                         </div>
                         <a class="left carousel-control" href="#carousel-main" role="button" data-slide="prev">
                             <img src="media/left.png"></img>
